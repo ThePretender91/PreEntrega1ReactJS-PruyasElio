@@ -17,7 +17,7 @@ Ubica este componente (CartWidget) dentro de Navbar.
 
 Crea un componente contenedor ItemListContainer.js con una prop greeting, y muestra el mensaje dentro del contenedor con el styling integrado.
 
-### Se debe entregar.
+## Se debe entregar.
 
 * Brand (título/nombre de la tienda)
 * Un listado de categorías clickeables
